@@ -219,21 +219,7 @@ footer{
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  End Utility  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  */
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  diago  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  */
-.relative{
-  position: relative;
-  width: 130vw;
-}
-.abslotute{
-  background-color: red;
-  width: 130vw;
-  height: 20vh;
-  position: absolute;
-  top: 60px;
-  left: -60px;
-  transform: rotate(-2deg);
-  
-}
+
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Common rules  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  */
 p{
